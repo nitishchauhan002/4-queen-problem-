@@ -1,0 +1,39 @@
+# 4-queen-problem-4-queen-problem-The 4-Queens problem involves placing four queens on a 4×4 chessboard so that no two queens threaten each other. 
+This is a specific instance of the more general N-Queens problem
+steps -
+Step 1: Understand the Problem
+Imagine a 4x4 chessboard.
+step 2:You need to place 4 queens on this board.
+But there's a rule: No two queens can attack each other.
+This means:
+step 3:No two queens can be in the same row (horizontal line).
+step 4:No two queens can be in the same column (vertical line).
+step 5:two queens can be on the same diagonal (slanted line).
+step 6:Start placing queens one by one.
+
+step 7:Place the first queen in the first row.
+step 8:Move to the next row to place the second queen.
+step 9:placing a queen, check if it is safe:
+
+step 10:Is there already a queen in the same row?
+step 11:Is there a queen in the same column?
+step 12:Is there a queen on any diagonal?
+step 13:If it's safe, place the queen. If not, try a different position.
+
+step 14:If no position works, go back and move the previous queen to a new position.
+
+Repeat until all queens are placed successfully.
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
